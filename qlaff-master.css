@@ -1,0 +1,59 @@
+/* qlafftoplists */
+/*#content tr td { vertical-align: top }*/
+#qlafftoplist table.home { width: 290px; border: 1px solid #CACACA; border-collapse: collapse; }
+#qlafftoplist table.home caption { padding: 4px 6px; color: #333; font-weight: bold; text-align: left; border: 1px solid #CACACA; border-bottom: 0px; }
+
+#qlafftoplist table.home th { padding: 6px 4px; color: #fff; background-color: #333; }
+#qlafftoplist table.home td { padding: 6px 4px; text-align: center; border-bottom: 1px solid #CACACA; vertical-align:middle;}
+#qlafftoplist table.home td img { border: 0;}
+#qlafftoplist table.home td a { font-family:Arial,Helvetica,sans-serif; font-size: 13px; color: #333; text-decoration: underline; }
+#qlafftoplist table.home td a:hover { text-decoration: none; }
+#qlafftoplist table.home td.rank { color: #333; font-weight: bold; }
+#qlafftoplist table.home td.room img { width: 80px; }
+#qlafftoplist table.home td.geo span { width: 16px; height: 11px; text-indent: -9999px; display: block; }
+#qlafftoplist table.home td.bonus a { font-size: 14px; font-weight: bold; text-decoration: none;white-space:nowrap; }
+#qlafftoplist table.home td.review { width: 80px }
+#qlafftoplist table.home td.review br { display: none; }
+#qlafftoplist table.home td.review a.button { width: 93px; height: 24px; font-size: 12px; color: #fff; text-decoration: none; line-height: 24px; font-weight: bold; text-align: center; background: url(img/button.png) no-repeat 0px 0px; display: block; }
+#qlafftoplist table.home td.review a.button:hover { text-decoration: underline; background: url(img/button.png) no-repeat 0px -24px; }
+
+#qlafftoplist table.home td.accept { padding: 6px; font-size: 12px; text-align: left; }
+#qlafftoplist table.home td.accept span { padding-left: 8px; display: block; float: left; }
+
+/* qlafftoplist flags */
+#qlafftoplist table td.geo span { width: 16px; height: 11px; text-indent: -9999px; display: block; }
+#qlafftoplist table td.accept span { padding-left: 8px; display: block; float: left; }
+#qlafftoplist table td.accept span.flag { padding: 0px; }
+
+/* qlafftoplist rating */
+#qlafftoplist table td.rating span { width: 160px; height: 14px; display: block; text-indent: -9999px; background-image: url(img/rating.png); background-repeat: no-repeat; }
+#qlafftoplist table td.rating span.stars10 { background-position: 0px 0px; }
+#qlafftoplist table td.rating span.stars9 { background-position: -16px 0px; }
+#qlafftoplist table td.rating span.stars8 { background-position: -32px 0px; }
+#qlafftoplist table td.rating span.stars7 { background-position: -48px 0px; }
+#qlafftoplist table td.rating span.stars6 { background-position: -64px 0px; }
+#qlafftoplist table td.rating span.stars5 { background-position: -80px 0px; }
+#qlafftoplist table td.rating span.stars4 { background-position: -96px 0px; }
+#qlafftoplist table td.rating span.stars3 { background-position: -112px 0px; }
+#qlafftoplist table td.rating span.stars2 { background-position: -128px 0px; }
+#qlafftoplist table td.rating span.stars1 { background-position: -144px 0px; }
+
+/* Game */
+#content iframe {vertical-align: top; }
+#game { padding-bottom: 20px; width: 820px; display: block; }
+#game ul { padding: 0px; margin: 0px; width: 818px; border: 1px solid #aaa; display: block; overflow: hidden; height: 110px;}
+#game ul li { width: 121px; text-align: center; display: block; float: left; padding: 0 7px; background: none;}
+#game ul li br { display: none; }
+#game ul li img { padding: 20px 20px 10px 20px; width: 80px; height: 45px;}
+#game ul li a.button { margin: 0px 0px 10px 12px; width: 93px; height: 24px; font-size: 12px; color: #fff; text-decoration: none; line-height: 24px; font-weight: bold; text-align: center; background: url(http://www.roulette4fun.com/Theme/roulette4fun.com/General/Images/button.png) no-repeat 0px 0px; display: block; }
+#game ul li a.button:hover { text-decoration: underline; background: url(img/button.png) no-repeat 0px -24px; }
+
+
+/* Flags */
+.flag { width: 16px; height: 12px; display: block; }
+.flag-en { width: 16px; background: url(img/flags.png) no-repeat -976px center; display: block; }
+.flag-us { width: 16px; background: url(img/flags.png) no-repeat -976px center; display: block; }
+.flag-de { width: 16px; background: url(img/flags.png) no-repeat -240px center; display: block; }
+.flag-fr { width: 16px; background: url(img/flags.png) no-repeat -352px center; display: block; }
+.flag-es { width: 16px; background: url(img/flags.png) no-repeat -304px center; display: block; }
+.flag-br { width: 16px; background: url(img/flags.png) no-repeat -128px center; display: block; }
